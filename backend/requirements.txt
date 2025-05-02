@@ -3,5 +3,5 @@ flask-cors
 flask_sqlalchemy
 requests
 gunicorn
-
+python-dateutil
 
