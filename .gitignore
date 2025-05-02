@@ -1,0 +1,15 @@
+.vercel
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local config
+*.db
+.env
+.DS_Store
+
+# VSCode settings
+.vscode/
