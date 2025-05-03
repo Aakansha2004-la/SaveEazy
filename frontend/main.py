@@ -4,7 +4,7 @@ import requests
 import altair as alt
 from datetime import datetime
 
-API_URL = "https://saveeazy.onrender.com"
+API_URL = "https://saveeazy.onrender.com/api"
 
 st.set_page_config(page_title="SaveEazy", page_icon="💰", layout="wide")
 st.title("SaveEazy")
