@@ -1,10 +1,10 @@
-# 💰 SaveEazy
+#  SaveEazy
 
 A SaveEazy web application with a **Flask backend** and **Streamlit frontend** to track spending, manage budgets, and visualize financial health.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add, update, and delete transactions
 - Set monthly budgets by category
@@ -13,7 +13,7 @@ A SaveEazy web application with a **Flask backend** and **Streamlit frontend** t
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - **Backend:** Flask + SQLAlchemy (SQLite)
 - **Frontend:** Streamlit
@@ -24,15 +24,15 @@ A SaveEazy web application with a **Flask backend** and **Streamlit frontend** t
 
 ---
 
-## 🛠️ Local Setup
+##  Local Setup
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 - Python 3.8+
 - pip
 - Git
 
-### 📦 Installation
+###  Installation
 
 ```bash
 git clone https://github.com/yourusername/finance-analyzer.git
